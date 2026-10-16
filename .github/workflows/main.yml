@@ -1,4 +1,4 @@
-Mugue:name: Windows Cloud PC - Anydesk (Optimized)
+Windows Cloud PC - Anydesk (Optimized)
 on:
 workflow_dispatch:
 jobs:
